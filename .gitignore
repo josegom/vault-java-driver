@@ -2,4 +2,5 @@
 .idea
 vault-java-driver.iml
 build
+target
 
